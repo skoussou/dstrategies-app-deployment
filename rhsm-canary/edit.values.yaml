@@ -1,4 +1,4 @@
 service:
   image:
     version: V1.0.0
-domain: <OCP_DOMAIN>
+domain: cluster-zwqwk.zwqwk.sandbox2264.opentlc.com
