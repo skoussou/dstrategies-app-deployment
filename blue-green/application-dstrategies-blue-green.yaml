@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: dstrategies-blue-green
-  namespace: user1-gitops-argocd
+  namespace: user01-gitops-argocd
 spec:
   destination:
     name: ''
